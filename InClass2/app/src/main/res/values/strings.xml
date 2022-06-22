@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Greetings Universe and Beyond</string>
+    <string name="greetings_string">Greetings every being everywhere!</string>
+
+    <string name="placeOrder">Place your order!</string>
+    <string name="cancelOrder">Cancel your order!</string>
+    <string name="usefulAdviceString">Don\'t Panic</string>
+    <string name="creditCardString">Credit Card</string>
+    <string name="paypalRadioString">PayPal</string>
+    <string name="debitCardRadioString">Debit Card</string>
+    <string name="order_successfully_placed_string">Order Successfully Placed</string>
+
+
+</resources>
